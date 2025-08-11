@@ -1,0 +1,12 @@
+E:\src\.Net Core GitHub\TaskManager\TaskManager.Core\bin\Debug\net9.0\TaskManager.Core.deps.json
+E:\src\.Net Core GitHub\TaskManager\TaskManager.Core\bin\Debug\net9.0\TaskManager.Core.dll
+E:\src\.Net Core GitHub\TaskManager\TaskManager.Core\bin\Debug\net9.0\TaskManager.Core.pdb
+E:\src\.Net Core GitHub\TaskManager\TaskManager.Core\obj\Debug\net9.0\TaskManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\.Net Core GitHub\TaskManager\TaskManager.Core\obj\Debug\net9.0\TaskManager.Core.AssemblyInfoInputs.cache
+E:\src\.Net Core GitHub\TaskManager\TaskManager.Core\obj\Debug\net9.0\TaskManager.Core.AssemblyInfo.cs
+E:\src\.Net Core GitHub\TaskManager\TaskManager.Core\obj\Debug\net9.0\TaskManager.Core.csproj.CoreCompileInputs.cache
+E:\src\.Net Core GitHub\TaskManager\TaskManager.Core\obj\Debug\net9.0\TaskManager.Core.sourcelink.json
+E:\src\.Net Core GitHub\TaskManager\TaskManager.Core\obj\Debug\net9.0\TaskManager.Core.dll
+E:\src\.Net Core GitHub\TaskManager\TaskManager.Core\obj\Debug\net9.0\refint\TaskManager.Core.dll
+E:\src\.Net Core GitHub\TaskManager\TaskManager.Core\obj\Debug\net9.0\TaskManager.Core.pdb
+E:\src\.Net Core GitHub\TaskManager\TaskManager.Core\obj\Debug\net9.0\ref\TaskManager.Core.dll
